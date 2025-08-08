@@ -110,15 +110,10 @@
 
 
 
-<!-- Github Stats 1-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajhariyale&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
-</p>
 
-
-<!-- Github Stats 2-->
-<p align="center">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajhariyale&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+![kevin15042005 GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin15042005&show_icons=true&theme=radical) 
+![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kevin15042005&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kevin15042005)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--FOOTER-->
